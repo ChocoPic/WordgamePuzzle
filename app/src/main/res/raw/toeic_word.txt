@@ -1,0 +1,528 @@
+1:considering that:~을 고려하건대
+2:frankly speaking:솔직히 말해
+3:consider:고려하다/간주하다
+4:consideration:고려/생각
+5:considerable:상당한
+6:last:마지막/지난/계속하다
+7:society:사회
+8:social:사회적인
+9:sociable:사교적인
+10:socialize:사회화하다
+11:statement:진술
+12:state:상태/진술하다
+13:explain:설명하다
+14:explanation:설명
+15:instead of:~대신에
+16:in the place of:~대신에
+17:invent:발명하다/만들다
+18:invention:발명
+19:female:여성의
+20:male:남성의
+21:in the first place:처음으로
+22:at first:처음에는
+23:inheritance:유전/유산
+24:inherit:상속하다/이어받다
+25:symbol:상징
+26:symbolic:상징적인
+27:reinforce:강화시키다
+28:religious:종교적인
+29:religion:종교
+30:region:지역
+31:regional:지역적인
+32:train:기차/훈련시키다
+33:training:훈련
+34:trainer:훈련자
+35:educational:교육적인
+36:education:교육
+37:press:누르다/언론/출판
+38:oppress:억압하다
+39:oppression:억압
+40:suppress:저하시키다
+41:suppression:저하/의기소침
+42:lawful:법적인
+43:legal:합법적인
+44:illegal:불법적인
+45:recently:최근에
+46:nowadays:최근에
+47:these days:최근에
+48:of late:최근에
+49:lately:최근에
+50:universally:보편적으로/일반적으로
+51:rib:갈비뼈
+52:universal:우주의/일반적인
+53:endow:부여하다/기부하다
+54:endowment:기부/기중
+55:intelligent:지적인
+56:enlighten:계몽시키다/개화시키다
+57:vote:투표/투표하다
+58:nature:자연/본능/본성
+59:natural:자연의/본능적인/당연한
+60:by nature:본래/출생부터
+61:superior:~보다 우수한
+62:superiority:우수/우월감
+63:inferior:열등한
+64:inferiority:열등/열등의식
+65:especially:특히
+66:on the contrary:반대로
+67:on the other hand:한편
+68:statue:동상
+69:social status:사회적 지위
+70:innately:본래/선천적으로
+71:aptitude:적성/소질
+72:career:직업/경력
+73:previous:이전의
+74:newcomer:신입사원/새로 온 사람
+75:job offer:일자리 제안
+76:send in:~을 제출하다
+77:insufficient:불충분한
+78:apply for:~에 지원하다
+79:employ:고용하다
+80:fair:공정한/타당한
+81:stop:멈추다
+82:protect:보호하다
+83:try:시도하다/노력하다
+84:bend over:몸을 앞으로 숙이다
+85:plus:~을 더한/~을 더하여
+86:law firm:법률 회사
+87:theft:절도
+88:seldom:드물게/좀처럼 ~않는
+89:in rows:줄지어
+90:daily:매일/매일의/날마다
+91:business card:명함
+92:upstairs:위층의/위층으로
+93:detail:세부 사항
+94:be known as:~으로 알려져 있다
+95:edit:편집하다/수정하다
+96:on vacation:휴가 중인
+97:as if:마치 ~인듯이
+98:hand:손/건네주다
+99:print out:출력하다
+100:case:경우
+101:fold:접다
+102:task:일/직무
+103:greet:~를 환영하다/~에게 인사하다
+104:paper:서류
+105:spell:철자를 쓰다/철자를 말하다
+106:planning:계획/입안
+107:expected:예상되는
+108:redo:다시하다
+109:briefcase:서류가방
+110:remaining:남아 있는
+111:rush:서두르다
+112:mission:임무
+113:come over:방문하다
+114:embrace:받아들이다/포용하다
+115:business trip:출장
+116:adventure:모험
+117:sightseeing:관광
+118:backpack:배낭
+119:leisure:여가/레저
+120:gallery:미술관/ 화랑
+121:begin:시작하다
+122:care for:~을 돌보다/~을 좋아하다
+123:bring:가져오다
+124:based:~에 기반을 둔
+125:concrete:구체적인
+126:array:진열/배열
+127:informal:격식에 얽매이지 않는/편안한
+128:on display:전시된/진열된
+129:avoid:방지하다/피하다
+130:be familiar with:~을 잘 알다/~에 익숙하다
+131:typical:전형적인/대표적인
+132:find out:찾아내다
+133:marketplace:시장
+134:consumer:소비자
+135:experiment:실험
+136:celebration:축하
+137:sales target:판매대상/판매목표
+138:in total:총/모두 합해
+139:curious:호기심 많은/궁금해하는
+140:drop by:잠깐 들르다
+141:advertise:광고하다
+142:full:가득찬/완전한
+143:get together:한데 모이다/조직하다
+144:rise:오르다/일어서다
+145:enterprise:기업/사업
+146:business hours:영업 시간
+147:trading:거래
+148:private:개인적인
+149:cast:(시선 등을)던지다/드리우다/불러일으키다
+150:formally:정식으로/공식적으로
+151:overall:전반적인/총체적인
+152:fully:완전히/충분히
+153:costume:복장/의상
+154:free:자유로이 ~할 수 있는/마음대로의
+155:keep:보유하다/계속하다
+156:shelf:선반
+157:tax:세금
+158:shopper:쇼핑객
+159:late:늦은/늦게
+160:be known for:~으로 알려져 있다
+161:shape:(어떤)모양으로 만들다/형체
+162:original:최초의/ 독창적인/원형
+163:technique:기술
+164:break down:고장나다
+165:design:설계하다/디자인
+166:repeat:반복하다
+167:be made up of:~으로 구성되다
+168:craft:기술
+169:a number of:많은
+170:facility:시설
+171:curved:구부러진/곡선모양의
+172:shortage:부족
+173:underground:지하의/비밀의
+174:modification:변경/수정
+175:incredible:놀라운/믿기 힘든
+176:raw material:원자재
+177:complain:불평하다
+178:counselor:상담원
+179:as soon as possible:가능한 빨리
+180:call for:~을 요구하다/~을 가지러 들르다
+181:successfully:성공적으로
+182:relationship:관계
+183:give a call:전화를 하다
+184:for free:무료로
+185:leave a message:메시지를 남기다
+186:unlike:~과 달리
+187:journey:여행
+188:pack:짐/짐을 꾸리다
+189:departure time:출발 시간
+190:passport:여권
+191:connect:~을 연결하다
+192:agent:대리인
+193:sudden:갑작스러운
+194:go on vacation:휴가를 떠나다
+195:border:국경
+196:unique:독특한
+197:borrow:빌리다
+198:final:마지막의/결정적인
+199:loose:헐거워진
+200:empty:텅 빈
+201:look after:~을 보살피다
+202:product:생산품
+203:generally:일반적으로
+204:quit:그만두다/중지하다
+205:exit:출구
+206:import:수입하다/수입
+207:start:시작하다
+208:govern:통치하다/지배하다
+209:communicate:의사소통하다
+210:export:수출하다/수출
+211:former:예전의
+212:exchange:교환/교환하다
+213:client:고객/의뢰인
+214:comforting:위로가 되는
+215:stamp:~에 도장을 찍다/우표
+216:following week:다음주
+217:cargo:화물/짐
+218:venue:장소
+219:in storage:보관 중인
+220:parcel:소포
+221:load:짐/작업량/싣다
+222:flow:흐름/이동
+223:spill:엎지르다
+224:bite:물다/한입
+225:dine:식사를 하다
+226:blend:섞다/혼합하다
+227:meal:식사
+228:clean:깨끗한/청소하다
+229:taste:~의 맛을 보다/시식하다
+230:change:잔돈
+231:rely on:~에 의존하다
+232:miss:놓치다/그리워하다
+233:model:원형/모범/~의 모형을 만들다
+234:loss:손실
+235:unbelievable:믿을 수 없는
+236:decrease:감소/감소하다
+237:gain:얻다
+238:upset:당황한/당황하게 하다
+239:funding:자금 제공
+240:expressive:(생각,감정을)나타내는
+241:contest:대회/시합
+242:temporary:일시적인
+243:generate:창출하다/야기하다
+244:proper:적절한
+245:abundant:풍부한/많은
+246:attack:공격하다
+247:powerful:영향력 있는/유력한
+248:overcome:극복하다
+249:founder:창립자/설립자
+250:branch:지사/분점/나뭇가지
+251:staff:직원/직원을 배치하다
+252:partnership:제휴/협력
+253:minor:사소한
+254:lift:들어 올리다
+255:as long as:~하는 한
+256:poorly:저조하게/형편없이
+257:switch:바꾸다
+258:correctly:바르게/정확하게
+259:conversation:대화
+260:be scheduled for:~으로 예정되어 있다
+261:be held:(행사가)열리다
+262:shake hands:악수하다
+263:conference room:회의실
+264:express:표현하다
+265:debate:토론하다
+266:result in:~을 야기하다
+267:speech:연설
+268:hand out:~을 나누어 주다
+269:award ceremony:시상식
+270:clap:박수/손뼉치다
+271:precise:정확한/정밀한
+272:bold:대담한/용감한
+273:prize:상품/소중히 여기다
+274:take a vacation:휴가를 얻다
+275:gentle:온화한/점잖은
+276:registration:등록
+277:lively:활기찬/활발한
+278:point at:~을 가리키다
+279:scale:규모/저울
+280:level:지위/수준
+281:appointment:약속/임명
+282:plan:계획/계획을 세우다
+283:characteristic:특징/특성
+284:view:견해/~라고 여기다
+285:resign:사직하다/물러나다
+286:fire:해고하다
+287:cab:택시
+288:stand:서다
+289:get off:떠나다/출발하다
+290:crosswalk:횡단보도
+291:route:길/노선
+292:solve:해결하다
+293:cite:(이유,예를)들다/인용하다
+294:by this time:지금쯤
+295:at the earliest:아무리 빨라도
+296:next to:~옆에
+297:risky:위험한
+298:compact:소형의/촘촘한
+299:challenge:도전/도전하다
+300:soon:곧
+301:somewhat:다소/얼마간
+302:ceiling:천장
+303:urban:도시의
+304:lighten:밝게 하다
+305:dwell:거주하다
+306:humid:습한
+307:chilly:쌀쌀한
+308:harvest:수확하다/수확
+309:temperature:온도
+310:cosmetic:미용의/화장의
+311:disease:질병
+312:cure:치료하다
+313:vision:시력/환상
+314:remedy:치료법/의약
+315:cavity:충치
+316:workout:운동
+317:surgery:수술
+318:paycheck:급료
+319:enthusiastic:열렬한
+320:relevant:관련된
+321:devoted:헌신적인
+322:fluent inn:~에 능숙한
+323:inexperience:무경험/미숙
+324:figure out:생각해내다/알아내다
+325:visiting:방문/객원의/방문하는
+326:manpower:인력
+327:endurance:인내력
+328:cover letter:자기소개서
+329:excel:능가하다/뛰어나다
+330:wanted:~을 모집하는/구하는
+331:make clear:분명히 하다
+332:hold up:견디다/떠받치다
+333:principle:원리/원칙
+334:authorization:권한부여/위임
+335:assess:평가하다
+336:regulate:규제하다/조절하다
+337:precious:귀중한
+338:accuse:비난하다/고소하다
+339:suppress:억누르다/금지하다
+340:suspect:용의자/의심하다
+341:illegal:불법의
+342:obey:복종하다
+343:on duty:근무 중인
+344:translate:번역하다/통역하다
+345:on time:정각에
+346:administer:관리하다
+347:perceive:지각하다/인지하다
+348:overseas:해외로/해외의
+349:including:~을 포함하여
+350:conclusive:결정적인/단호한
+351:hand in:제출하다
+352:past due:연체된/기한이 지난
+353:acquire:얻다
+354:hand over:~을 건네주다
+355:supplementary:보충의/추가의
+356:literacy:읽고 쓰는 능력
+357:workplace:작업장
+358:popularly:일반적으로
+359:be satisfied with:~에 만족하다
+360:halfway:중간에/중간의
+361:in light of:~을 고려하여/~에 비추어
+362:get along with:~와 사이좋게 지내다
+363:count on:~을 믿다/의지하다
+364:head office:본사
+365:distraction:주의산만/집중을 방해하는 것
+366:interruption:중단/방해
+367:board of directors:이사회
+368:work shift:근무 교대
+369:observant:관찰력 있는/준수하는
+370:overlook:간과하다/내려다보다
+ :burdensome:부담스러운/힘든
+ :overnight:밤새
+ :circulate:순환하다/순환시키다
+ :obvious:명백한/뻔한
+ :commend:칭찬하다/추천하다
+ :rearrange:조정하다/재배열하다
+ :intensive:집중적인/강도높은
+ :municipal:지방자치의/시립의
+ :cheerful:쾌활한/명랑한
+ :out of order:고장난
+ :periodical:정기 간행물/ 주기적인
+ :stroll:거닐다/산책하다
+ :delight:기쁨
+ :head for:~로 향하다
+ :enjoyable:재미있는/즐거운
+ :amusement park:놀이공원
+ :spectator:관중
+ :box office:매표소
+ :exhibit:전시회/전시하다
+ :noteworthy:주목할만한
+ :on schedule:예정대로
+ :persistent:끊임없는/계속되는
+ :appealing:호소하는/매력적인
+ :verify:검증하다/증명하다
+ :turn to:~쪽으로 향하다/~에 의지하다
+ :extraordinary:특별한/뛰어난/엄청난
+ :mediate:중재하다/매개
+ :definite:분명한/명확한
+ :good for:~에 좋은
+ :potentially:잠재적으로/가능성있게
+ :distinguish:구별하다
+ :criticize:비평하다/비난하다
+ :modestly:겸손하게
+ :point out:~을 지적하다
+ :call off:취소하다
+ :bring on:~을 초래하다
+ :gradual:단계적인/점차적인
+ :confront:직면하다/맞서다
+ :feasible:실행 가능한
+ :chase:뒤쫓다/추구하다
+ :invalid:무효한/타당하지 않은
+ :strategically:전략적으로
+ :get over:극복하다
+ :meaningful:의미있는/중요한
+ :deliberate:고의적인/신중한
+ :dynamic:동적인/역동적인
+ :ample:충분한/풍부한/넓은
+ :massive:대규모의/거대한
+ :forerunner:선구자
+ :relevance:관련/관련성
+ :mutual:상호적인/서로의
+ :downturn:하락/(경기)침체
+ :tactics:전략/방법
+ :cope with:~에 대처하다
+ :collapse:붕괴하다/붕괴
+ :ratio:비율
+ :supplement:보완하다/보충/보조식품
+ :without a doubt:의심할 여지없이
+ :nationwide:전국적인
+ :unemployment:실업
+ :tedious:지루한/싫증나는
+ :fluctuation:변동/동요/파동
+ :readership:독자수/독자
+ :inexpensive:비싸지 않은
+ :souvenir:기념품
+ :celebrate:축하하다
+ :by no means:결코 ~이 아닌
+ :underline:밑줄을 긋다/강조하다
+ :by check:수표로
+ :stack:더미/쌓아올리다
+ :thrifty:검소한/절약하는
+ :gift certificate:상품권
+ :apparel:의류/의복
+ :valid:유효한/타당한
+ :wholesale:도매/다량의
+ :quantity:수량
+ :prediction:예측
+ :cooperative:협력적인/협동의
+ :advancement:승진/진보
+ :suspend:중단하다/정지하다/매달다
+ :innovate:혁신하다/쇄신하다
+ :except for:~을 제외하고
+ :composition:구성
+ :durable:내구력이 있는/튼튼한
+ :breakthrough:돌파/발전/획기적인
+ :carry out:수행하다/이행하다
+ :outlast:~보다 오래가다
+ :adversely:불리하게/반대로
+ :identically:동일하게/같게
+ :automatically:자동적으로
+ :generator:발전기
+ :carelessly:부주의하게
+ :representation:표현/표상
+ :remarkably:두드러지게
+ :reform:개혁/개혁하다
+ :makeup:구성/화장
+ :query:질문
+ :sort out:정리/해결하다
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+ :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
