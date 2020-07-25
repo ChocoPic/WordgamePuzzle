@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -34,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
     final static private int WORDS = 500;
 
     ImageView img;
+    Button btn_help;
     Button btn_exit;
     Button [] btnArr = new Button[BUTTON];
     TextView word;
@@ -70,8 +72,18 @@ public class MainActivity extends AppCompatActivity {
         img = findViewById(R.id.imageView);
         num = findViewById(R.id.TextView_score);
         btn_exit = findViewById(R.id.button_exit);
+        btn_help = findViewById(R.id.help_button);
 
         initAll();
+        //도움말 버튼
+        btn_help.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast toast = Toast.makeText(getApplicationContext(), "두 번 틀리면 뜻 힌트가 나옵니다\n알파벳을 눌러 빈칸을 채워보세요!", Toast.LENGTH_LONG);
+                toast.setGravity(Gravity.CENTER, 0, 0);
+                toast.show();
+            }
+        });
         //종료 버튼
         btn_exit.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -189,7 +201,6 @@ public class MainActivity extends AppCompatActivity {
         int num = random.nextInt(WORDS);
         answer_word_String = wordVector.get(num);
         answer_meaning = meanVector.get(num);
-        System.out.println(answer_word_String + " "+ answer_meaning + " " + num);
     }
 
     public void OpenPopup(View V){

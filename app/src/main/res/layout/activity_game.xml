@@ -24,11 +24,20 @@
             android:textSize="20sp" />
 
         <Button
+            android:id="@+id/help_button"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:drawable/ic_menu_help" />
+
+        <Button
             android:id="@+id/button_exit"
             android:layout_width="40dp"
             android:layout_height="40dp"
-            android:layout_margin="10dp"
-            android:background="@android:drawable/ic_menu_close_clear_cancel"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@android:drawable/presence_offline"
             android:textAllCaps="false" />
 
     </LinearLayout>
@@ -47,8 +56,8 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="209dp"
-            android:layout_height="35dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="left"
             android:layout_marginTop="30dp"
             android:background="@drawable/full" />
@@ -72,11 +81,13 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="30dp"
             android:layout_marginBottom="10dp"
-            android:background="#80FFFFFF"
+            android:background="#B5FFFFFF"
             android:gravity="center"
-            android:letterSpacing="0.5"
-            android:text="TextView"
-            android:textSize="20dp" />
+            android:letterSpacing="0.4"
+            android:text="T__t _iew"
+            android:textColor="#595959"
+            android:textSize="20dp"
+            android:textStyle="bold" />
     </LinearLayout>
 
     <TableLayout

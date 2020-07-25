@@ -183,7 +183,7 @@
 183:give a call:전화를 하다
 184:for free:무료로
 185:leave a message:메시지를 남기다
-186:unlike:~과 달리
+186:unlike:~와 달리
 187:journey:여행
 188:pack:짐/짐을 꾸리다
 189:departure time:출발 시간
@@ -258,7 +258,7 @@
 258:correctly:바르게/정확하게
 259:conversation:대화
 260:be scheduled for:~으로 예정되어 있다
-261:be held:(행사가)열리다
+261:correspond:일치하다/해당하다
 262:shake hands:악수하다
 263:conference room:회의실
 264:express:표현하다
@@ -319,7 +319,7 @@
 319:enthusiastic:열렬한
 320:relevant:관련된
 321:devoted:헌신적인
-322:fluent inn:~에 능숙한
+322:fluent:유창한/능통한
 323:inexperience:무경험/미숙
 324:figure out:생각해내다/알아내다
 325:visiting:방문/객원의/방문하는
@@ -357,14 +357,14 @@
 357:workplace:작업장
 358:popularly:일반적으로
 359:be satisfied with:~에 만족하다
-360:halfway:중간에/중간의
+360:halfway:절반의/중간의
 361:in light of:~을 고려하여/~에 비추어
 362:get along with:~와 사이좋게 지내다
 363:count on:~을 믿다/의지하다
 364:head office:본사
 365:distraction:주의산만/집중을 방해하는 것
 366:interruption:중단/방해
-367:board of directors:이사회
+367:board of directors:이사회/임원회
 368:work shift:근무 교대
 369:observant:관찰력 있는/준수하는
 370:overlook:간과하다/내려다보다
@@ -466,38 +466,38 @@
  :makeup:구성/화장
  :query:질문
  :sort out:정리/해결하다
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
- :
+ :mistakenly:실수로
+ :defect:결함/장애
+ :faulty:결점이 있는
+ :stain:얼룩
+ :recall:(제품을)회수하다/상기하다
+ :take back:돌려주다/취소하다/철회하다
+ :adverse:불리한/부정적인/반대의
+ :cut back:줄이다/삭감하다
+ :inconvenient:불편한
+ :argument:논의/토론/언쟁
+ :compliment:찬사/칭찬
+ :willing:기꺼이 하는
+ :round trip:왕복 여행
+ :crew:승무원
+ :port:항구
+ :aircraft:항공기
+ :favor:호의/친절
+ :memorable:기억할 만한/잊혀지지 않는
+ :landing:착륙
+ :geographic:지리상의
+ :jet lag:시차로 인한 피로
+ :native:토착의/원주민의/고유한
+ :unload:(짐을)내리다
+ :complicate:복잡하게 하다
+ :convincing:설득력 있는
+ :verbal:말의/구두의
+ :rational:합리적인
+ :make a move:행동을 취하다
+ :surprise:놀라게하다/놀라운 일
+ :peak:절정/최고점
+ :origin:시초/기원
+ :recognition:인정
 
 
 
